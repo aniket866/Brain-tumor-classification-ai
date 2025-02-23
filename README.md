@@ -1,5 +1,6 @@
 # 🧠 Brain Tumor Detection AI
 
+![Image](https://github.com/user-attachments/assets/4df2d055-eaaf-422f-a6fd-0a2312d8fd33)
 
 ![Brain Tumor Detection]([Brain-tumor-classification-ai
 /PROJECT IMAGES/](https://github.com/aniket866/Brain-tumor-classification-ai/blob/main/PROJECT%20IMAGES/Report%20generated.png))
