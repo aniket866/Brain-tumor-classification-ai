@@ -1,7 +1,8 @@
 # 🧠 Brain Tumor Detection AI
 
 
-![Brain Tumor Detection](PROJECT IMAGES/Report generated.png)
+![Brain Tumor Detection](Brain-tumor-classification-ai
+/PROJECT IMAGES/)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)](https://www.tensorflow.org/) 
