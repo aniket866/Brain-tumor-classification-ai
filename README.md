@@ -24,7 +24,7 @@
 
 This project aims to classify **brain tumors** into four categories using deep learning. A DenseNet model was trained on a preprocessed and augmented dataset, achieving 99.65% test accuracy. Additionally, a web application was developed where users can upload MRI scans and receive an automated diagnosis report.
 
-💡 **Built With:** Flask, TensorFlow, OpenCV, React, Vite, Node.js, Express, Zustand, Tailwind, JavaScript, HTML, CSS
+💡 **Built With:** Flask, PyTorch, OpenCV, React, Vite, Node.js, Express, Zustand, Tailwind, JavaScript, HTML, CSS
 
 📚 **Dataset Description**
 The dataset consists of JPG MRI images organized into four tumor types:
