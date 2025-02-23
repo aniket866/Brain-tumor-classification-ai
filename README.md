@@ -140,19 +140,19 @@ http://127.0.0.1:5000/
 - 🎨 TailwindCSS (Styling framework)
 
 ### **Backend Dependencies**
-- 🧠 TensorFlow, Keras (Deep Learning)
+- 🧠 PyTorch, Torchvision (Deep Learning)
 - 🖼️ OpenCV, SciPy (Image Processing)
 - 🗄️ PostgreSQL (Database for reports & logs)
 
 ### **Languages**
-- 🐍 Python (Backend, AI Model)
+- 🐍 Python, Flask (Backend, AI Model)
 - ⚛️ JavaScript (Frontend, API Logic)
 - 🖌️ HTML, CSS (Styling & Markup)
 
 
 
 ### **AI Model**
-- 🧠 TensorFlow/Keras-based Brain Tumor Classification Model
+- 🧠 PyTorch-based Brain Tumor Classification Model
 
 ### **Versions**
 - 🔷 React: `18.3.1`
