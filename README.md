@@ -168,7 +168,7 @@ http://127.0.0.1:5000/
 ## 🖼️ Screenshots 📸
 | Upload MRI Scan | AI Detection | Report Generation | Dashboard |
 |---|---|---|---|
-| ![Upload](https://via.placeholder.com/300x200.png?text=Upload) | ![Detection](https://via.placeholder.com/300x200.png?text=Detection) | ![Report](https://via.placeholder.com/300x200.png?text=Report) | ![Dashboard](https://via.placeholder.com/300x200.png?text=Dashboard) |
+| https://drive.google.com/file/d/1OZR-C5_IAfY2hc1CRbDlHehJxgiK5xK9/view?usp=sharing | ![Detection](https://via.placeholder.com/300x200.png?text=Detection) | ![Report](https://via.placeholder.com/300x200.png?text=Report) | ![Dashboard](https://via.placeholder.com/300x200.png?text=Dashboard) |
 
 ---
 
