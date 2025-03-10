@@ -81,7 +81,7 @@ A Flask-based website was created where users can:
 ```
 
 ## 🚀 Demo 🎥
-🔗 **Live Demo:** [Coming Soon](#)
+🔗 **Live Demo:** https://effulgent-gecko-5e1dd1.netlify.app/
 
 ![Demo Screenshot](https://via.placeholder.com/800x400.png?text=Live+Demo+Placeholder)
 
